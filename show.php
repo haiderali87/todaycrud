@@ -95,7 +95,7 @@ include_once("conn.php");
         </div>
     </div>
 
-    <h1>Hello how are you i am new git user</h1>
+    <h1>Hello how are you</h1>
 
 
     <script src="bootstrap-4.6/js/jquery.js"></script>
